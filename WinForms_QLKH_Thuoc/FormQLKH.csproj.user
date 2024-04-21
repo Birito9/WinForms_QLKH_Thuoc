@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmChiTiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UC_Loading.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_CTDonNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_CTDonXuat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_CTThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_NCC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QLChiNhanh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QLDonNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QLDonXuat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QLKho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QLLo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QLNhomThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QLNV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QLTaiKhoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QLThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
