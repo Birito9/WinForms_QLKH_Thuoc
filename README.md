@@ -2,7 +2,7 @@
 1.	Cài đặt Visual Studio 2022: Video hướng dẫn Download Visual Studio 2022
 2.	Cài đặt .NET Framework 3.5 và .NET 6.0: Video hướng dẫn Download .NET
 3.	Cài đặt SQL Server: Video hướng dẫn Download SQL Server
-4.	Vào link Github: Inventory-Management-System , copy đường dẫn Code sau: 
+4.	Vào link Github: WinForms_QLKH_Thuoc, copy đường dẫn Code sau: 
 5.	Mở Git Bash trên Desktop, gõ 
 "git clone https://github.com/Birito9/WinForms_QLKH_Thuoc.git" và Enter. Chờ clone hoàn tất sẽ xuất hiện thư mục "WinForms_QLKH_Thuoc" như sau:
 
