@@ -1,8 +1,8 @@
 # WinForms_QLKH_Thuoc
-1.	Cài đặt Visual Studio 2022: Video hướng dẫn Download Visual Studio 2022
-2.	Cài đặt .NET Framework 3.5 và .NET 6.0: Video hướng dẫn Download .NET
-3.	Cài đặt SQL Server: Video hướng dẫn Download SQL Server
-4.	Vào link Github: WinForms_QLKH_Thuoc, copy đường dẫn Code sau: 
+1. Cài đặt Visual Studio 2022: Video hướng dẫn [Download Visual Studio 2022](https://www.youtube.com/watch?v=hto2TVEhNkA)
+2. Cài đặt .NET Framework 3.5 và .NET 6.0: Video hướng dẫn [Download .NET](https://www.youtube.com/watch?v=T_W9yDTyYCc)
+3. Cài đặt SQL Server: Video hướng dẫn [Download SQL Server](https://www.youtube.com/watch?v=O2yhVbvfwWs)
+4.	Vào link Github: [WinForms_QLKH_Thuoc](https://github.com/Birito9/WinForms_QLKH_Thuoc), copy đường dẫn Code sau: 
 5.	Mở Git Bash trên Desktop, gõ 
 "git clone https://github.com/Birito9/WinForms_QLKH_Thuoc.git" và Enter. Chờ clone hoàn tất sẽ xuất hiện thư mục "WinForms_QLKH_Thuoc" như sau:
 
